@@ -1,6 +1,7 @@
 # Typhon-SL
 Open Source 7" Drone Racing Frame modeled after the 5/6" Typhon Racer for Street League.  The project initiated by SouthEastFPV - Rick Caudle AKA - SSBelmont.
-<img src="https://github.com/SouthEastFPV/Typhon-SL/blob/main/Images/T_v2_7Inch_1.jpg?raw=true" width="800">
+<img src="https://github.com/SouthEastFPV/Typhon-SL/blob/main/Images/T_v2_7_Inch_1.jpg?raw=true" width="800">
+https://github.com/SouthEastFPV/Typhon-SL/blob/main/Images/T_v2_7_Inch_1.jpg
 
 # About Typhon SL
 ## The idea
