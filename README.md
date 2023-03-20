@@ -14,7 +14,7 @@ Typhon (/ˈtaɪfɒn, -fən/; Greek: Τυφῶν, [typʰɔ̂ːn]), also Typhoeus 
 * Top plate: 3mm
 * Mid plate: 3mm
 * Bottom plate 3mm
-* Arm: 6mm
+* Arm: Cut from 6.35mm or thicker in order to comply with SL rules (the arm locks will work with arms upto 7mm thick)
 * Arm Lock: 3mm
 * Stack mounting:  20 x 20 or 30 x 30
 
